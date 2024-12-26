@@ -17,7 +17,7 @@ export default function Page() {
       </div>
 
       <ScrollArea className="whitespace-nowrap pb-4">
-        <div className="flex gap-6 items-center">
+        <div className="flex gap-5 items-center">
           {trending.map((song) => (
             <SongCard key={song.id} id={song.id} image={song.image} artist={song.singers || "unknown"} title={song.song} />
           ))}
@@ -30,7 +30,7 @@ export default function Page() {
         <p className="-mt-1 text-xs">top relaxing songs for peace</p>
       </div>
       <ScrollArea className="whitespace-nowrap pb-4">
-        <div className="flex gap-6 items-center">
+        <div className="flex gap-5 items-center">
           {relaxing.map((song) => (
             <SongCard key={song.id} artist={song.singers || "unknown"} id={song.id} image={song.image} title={song.song} />
           ))}
@@ -39,11 +39,11 @@ export default function Page() {
       </ScrollArea>
 
       <div className="-mb-[3px]">
-        <h1 className="font-bold text-lg">💞 Romanse<span className="text-primary">.</span></h1>
+        <h1 className="font-bold text-lg"> Romance💘<span className="text-primary">.</span></h1>
         <p className="-mt-1 text-xs">top romanse songs for mood</p>
       </div>
       <ScrollArea className="whitespace-nowrap pb-4">
-        <div className="flex gap-6 items-center">
+        <div className="flex gap-5 items-center">
           {romance.map((song) => (
             <SongCard key={song.id} id={song.id} artist={song.singers || "unknown"} image={song.image} title={song.song} />
           ))}
@@ -52,11 +52,11 @@ export default function Page() {
       </ScrollArea>
 
       <div className="-mb-[3px]">
-        <h1 className="font-bold text-lg">💤 Lofi<span className="text-primary">.</span></h1>
+        <h1 className="font-bold text-lg">💤 Lo-Fi<span className="text-primary">.</span></h1>
         <p className="-mt-1 text-xs">top lofi songs to chill</p>
       </div>
       <ScrollArea className="whitespace-nowrap pb-4">
-        <div className="flex gap-6 items-center">
+        <div className="flex gap-5 items-center">
           {lofi.map((song) => (
             <SongCard key={song.id} id={song.id} artist={song.singers || "unknown"} image={song.image} title={song.song} />
           ))}
