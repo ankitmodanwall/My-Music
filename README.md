@@ -2,12 +2,12 @@
 
 MusicHub is a web music app built using Next.js 14, App Router, and an unofficial music API. The user interface is styled with Tailwind CSS.
 
-[![Follow me](https://img.shields.io/github/followers/r2hu1?style=social)](https://github.com/r2hu1)
-[![Star this Repo](https://img.shields.io/github/stars/r2hu1/musichub?style=social)](https://github.com/r2hu1/musichub)
+[![Follow me](https://img.shields.io/github/followers/r2hu1?style=social)](https://www.instagram.com/ankitt_ml/)
 
 <br/>
 
-![Homepage](https://i.postimg.cc/SsHpgjGS/Screenshot-2024-01-25-135641.png)
+[![Homepage][image](https://github.com/user-attachments/assets/ff696721-d6d2-4bc6-8aee-11c109f8bad6)]
+
 
 ## Features
 
@@ -19,13 +19,16 @@ MusicHub is a web music app built using Next.js 14, App Router, and an unofficia
 ## Screenshots
 
 ### Light Mode Homepage
-![Light Mode Homepage](https://i.postimg.cc/qMVTnhRQ/Screenshot-2024-01-25-135653.png)
+![Light Mode Homepage](![image](https://github.com/user-attachments/assets/e3a38af6-7a10-4167-a528-790281ed542d)
+)
 
 ### Search Page
-![Search Page](https://i.postimg.cc/NGrt57g5/Screenshot-2024-01-25-135715.png)
+![Search Page](![image](https://github.com/user-attachments/assets/60d69a68-9a31-422e-a764-a8dce9d950a8)
+)
 
 ### Music Page
-![Music Page](https://i.postimg.cc/vZ7tQ5W6/image.png)
+![Music Page](![image](https://github.com/user-attachments/assets/2b985abc-9133-48c0-8af2-26e3ab9eb9fb)
+)
 
 ## Installation
 
