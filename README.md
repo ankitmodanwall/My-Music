@@ -1,12 +1,13 @@
-# Tune Kali
+# Tune Kali 
 
 MusicHub is a web music app built using Next.js 14, App Router, and an unofficial music API. The user interface is styled with Tailwind CSS.
 
-[![Follow me](https://img.shields.io/github/followers/r2hu1?style=social)](https://www.instagram.com/ankitt_ml/)
+## HomePage
+![image](https://github.com/user-attachments/assets/4ac5d8fd-54bc-4d44-8b80-623964408ac2)
 
 <br/>
 
-[![Homepage][image](https://github.com/user-attachments/assets/ff696721-d6d2-4bc6-8aee-11c109f8bad6)]
+![Homepage](https://github.com/user-attachments/assets/ff696721-d6d2-4bc6-8aee-11c109f8bad6)
 
 
 ## Features
@@ -19,16 +20,15 @@ MusicHub is a web music app built using Next.js 14, App Router, and an unofficia
 ## Screenshots
 
 ### Light Mode Homepage
-![Light Mode Homepage](![image](https://github.com/user-attachments/assets/e3a38af6-7a10-4167-a528-790281ed542d)
+![Light Mode Homepage](https://github.com/user-attachments/assets/e3a38af6-7a10-4167-a528-790281ed542d)
 )
 
 ### Search Page
-![Search Page](![image](https://github.com/user-attachments/assets/60d69a68-9a31-422e-a764-a8dce9d950a8)
-)
+![Search Page](https://github.com/user-attachments/assets/60d69a68-9a31-422e-a764-a8dce9d950a8)
 
 ### Music Page
-![Music Page](![image](https://github.com/user-attachments/assets/2b985abc-9133-48c0-8af2-26e3ab9eb9fb)
-)
+![Music Page](https://github.com/user-attachments/assets/2b985abc-9133-48c0-8af2-26e3ab9eb9fb)
+
 
 ## Installation
 
