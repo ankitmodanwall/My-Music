@@ -65,10 +65,10 @@ export default function Player({ params }) {
     };
 
     const changeRight = () => {
-        audioRef.current.currentTime = audioRef.current.currentTime + 10;
+        audioRef.current.currentTime = audioRef.current.currentTime + 5;
     }
     const changeLeft = () => {
-        audioRef.current.currentTime = audioRef.current.currentTime - 10;
+        audioRef.current.currentTime = audioRef.current.currentTime - 5;
     };
     useEffect(() => {
         getSong();
