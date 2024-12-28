@@ -10,7 +10,7 @@ const poppins = Poppins({
 });
 
 export const metadata = {
-  title: "MusicHub",
+  title: "Tunekali",
   description: "Open-Source music web app.",
   icons: "/logo-musichub.webp",
   manifest: "/manifest.json",
@@ -27,7 +27,7 @@ export default function RootLayout({ children }) {
           disableTransitionOnChange
         >
           <NextTopLoader
-            color="#fffff"
+            color="#ffff"
             initialPosition={0.08}
             crawlSpeed={200}
             height={3}
